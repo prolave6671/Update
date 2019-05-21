@@ -1,4 +1,12 @@
-1-Bütün hackler 1 menüde birleşti.
+                                                        21.05.2019 21:12 Güncelleme Notları                                                         
+1-AutoUpdate eklendi.                                
+2-Destek link eklendi.
+3-İsteğe göre Limit değiştilecek, sadece isteminiz gerekiyor.
+4-TopMost = True oldu, artık uygulamalarda etkin olacak.
+5-Yeni stringler eklendi.  
+6-Ufak tefek kod hataları giderildi.
+                                                        21.05.2019 Güncelleme Notları                                                          
+1-Bütün hackler 1 menüde birleşti.                                                            
 2-Offsetsler güncellendi.
 3-Yeni menü eklendi "Update" artık daha kolay update olacak.
 4-Key eklendi (Home,İnsert), İnsert tuşu ile menü kapanır, Home tuşu ile menü yeniden açılır.
