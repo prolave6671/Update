@@ -1,5 +1,26 @@
-                                                        21.05.2019 21:12 Güncelleme Notları                                                         
-1-AutoUpdate eklendi.                                
+                                                     22.05.2019 11:38 Güncelleme Notları  
+- Offsetsler yeniden ele alındı, güncellendi.
+- Checkbox aralıkları düzeltildi.
+- Crash artık verilmiyor.
+- RageQuit kapandı.
+- Hile adları aşağıya doğru dizayn edildi.
+- Yeni hile çalışmalarına başlanıldı.
+- Ufak tefek optimizasyon güncellemeleri geldi.
+- Hile artık daha az cpu kullanacak.
+- Menü adı "Legit (All Hack)" diyerek değiştirildi.
+- AutoUpdate artık daha kolay açılacak.
+- AutoUpdate zorunlu halden çıkarıldı, kullanıcı isteğine göre artık update olacak.
+- TabPage olarak "AutoUpdate" menü kısmına eklendi.
+- Eagle form icon varsayılan olarak değiştirildi.
+- Proje yedekleri saklandı.
+- Proje kaynak kodlarının çalınma durumu biraz daha azaldı.
+- "Form color tab" sadece artık "Groupbox" rengi değiştirecek.
+- Artık "Exit'e" basılınır ise eğer geri dönme olmıyacak, ve basıldığında "Exit" logosu kaybolup kapanacak.
+- Public özellikler olarak destek kısmın'a dc eklendi.
+- Artık SDK sürümü değiştirildi.
+- Yeni destek ekibi geldi.
+                                                     21.05.2019 21:12 Güncelleme Notları                                                         
+1-AutoUpdate eklendi.                               
 2-Destek link eklendi.
 3-İsteğe göre Limit değiştilecek, sadece isteminiz gerekiyor.
 4-TopMost = True oldu, artık uygulamalarda etkin olacak.
