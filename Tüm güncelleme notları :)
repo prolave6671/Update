@@ -59,6 +59,7 @@
 8-Ufak tefek "Optimizasyon" güncellemeler getirildi.
 9-Menü yeniden boyutlandırıldı.
 10-Progressbar düzeltildi.
+✭
                                                         21.05.2019 Güncelleme Notları                                                          
 1-Bütün hackler 1 menüde birleşti.                                                            
 2-Offsetsler güncellendi.
@@ -81,7 +82,7 @@
 19-"Username","Password" otomatik olarak "Fr3D","Admin" Olarak eklendi.Artık daha kolay giriş yapılacak.
 20-Username, Password artık değişmiyecek.
 21-Proje'nin yedeği saklandı, hata olmaması için.
-
+✭
 Eğer hata alıyorsanız,Burdan net.framework indirin.: https://dotnet.microsoft.com/download/dotnet-framework/net472https://dotnet.microsoft.com/download/dotnet-framework/net472
 Not-Hangi dil ile yazıldı : Vb.net.
 Not-Kimin için : FR3D
