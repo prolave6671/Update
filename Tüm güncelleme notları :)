@@ -25,6 +25,22 @@
 - Yeni coderler için tanıtım videoları ve eğitim videoları seçildi.
 - Yeni özellik olan artık enable tuşun'a basılmaz ise checkboxlar seçilmiyecek, kullanıcı hataları için düzeltildi.
 - ColorDialog yerine label ile renk seçim'i eklendi.
+- Sade menü yapıldı, kullanıcıların bilgisayarı kasmaması için ram daha az kullanılacak.
+- ProccesKill eklendi, görev yöneticisi ile uğraşmaya gerek kalmadı.
+- Chat eklenmedi, ftp adresi maalesef elimde yok.
+- All disable özelliği devre dışı bırakıldı, kod hataları olmaması için.
+- SubwaySurf HeadStart + speed artık oyun dışındada alınabilecek.
+- Misc kısmında ufak tefek düzeltmeler.
+- İnsert tuşuna basmama düzeltildi, hilenin simgesine basarak insert tuşuna basmanız gerekiyor.İnsert ile menü kapanır, home ile geri açılır.
+- Menü simgesi değiştirildi, target.png olarak.
+- Textbox değerleri artık daha çok olacak.
+- Memory sınır kaldırıldı.
+- Hile içinde artık başka proje olmıyacak şekilde değiştirildi.
+- Net framework sürüm : 4.6.1 olarak değiştirildi.
+- Hilenin masaüstündeki icon'u eagle olarak değiştirildi.
+- XP görsel stilleri "Disable" oldu.
+- Daha şık görünecek ufak tefek menü aydınlatmaları eklendi.
+- Menü daha kolay ve hızlı açılacak.
                                                      21.05.2019 21:12 Güncelleme Notları                                                         
 1-AutoUpdate eklendi.                               
 2-Destek link eklendi.
