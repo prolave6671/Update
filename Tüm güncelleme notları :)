@@ -23,6 +23,8 @@
 - Visual Studio araçlarına class dosyası eklendi.
 - Labeller normal label olarak seçildi.
 - Yeni coderler için tanıtım videoları ve eğitim videoları seçildi.
+- Yeni özellik olan artık enable tuşun'a basılmaz ise checkboxlar seçilmiyecek, kullanıcı hataları için düzeltildi.
+- ColorDialog yerine label ile renk seçim'i eklendi.
                                                      21.05.2019 21:12 Güncelleme Notları                                                         
 1-AutoUpdate eklendi.                               
 2-Destek link eklendi.
